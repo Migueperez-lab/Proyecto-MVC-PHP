@@ -1,0 +1,1 @@
+<section class="panel"><div class="gamebar"><span>Movimientos: <b id="moves">0</b></span><span>Parejas: <b id="pairs">0 / 8</b></span><button class="btn secondary" onclick="startMemory()">Reiniciar juego</button></div><div id="memoryBoard" class="memory-board"></div><p id="gameMessage" class="muted">Voltea dos cartas y encuentra las parejas.</p></section>

@@ -1,0 +1,1 @@
+<section class="panel stopwatch"><div id="watchDisplay">00:00:00.00</div><div class="watch-buttons"><button class="btn" id="watchStart">Iniciar</button><button class="btn secondary" id="watchLap" disabled>Vuelta</button><button class="btn danger" id="watchReset">Reiniciar</button></div><h3>Vueltas registradas</h3><ol id="lapList" class="laps"></ol></section>
